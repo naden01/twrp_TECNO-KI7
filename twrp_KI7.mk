@@ -22,7 +22,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/tecno/KI7/device.mk)
 
 PRODUCT_DEVICE := KI7
-PRODUCT_NAME := twrp_TECNO-KI7
+PRODUCT_NAME := twrp_KI7
 PRODUCT_BRAND := TECNO
 PRODUCT_MODEL := TECNO KI7
 PRODUCT_MANUFACTURER := tecno
